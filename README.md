@@ -34,7 +34,7 @@ To run the weather forecast dashboard locally, follow these steps:
 
 2. Use the slider to specify the number of forecasted days (up to 5 days).
 
-3. Select "Temperature" as the type of weather data to visualize.
+3. Select "Temperature" or "Sky" as the type of weather data to visualize.
 
 4. Click the "Submit" button to view the weather forecast for the selected location and forecasted days.
 
