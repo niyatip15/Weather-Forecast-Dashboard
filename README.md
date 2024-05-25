@@ -46,5 +46,5 @@ To run the weather forecast dashboard locally, follow these steps:
 
 ## Directory Structure
 
-- `app.py`: The main Python script containing the Streamlit application code.
+- `main.py`: The main Python script containing the Streamlit application code.
 - `requirements.txt`: A file listing the required Python packages and their versions
